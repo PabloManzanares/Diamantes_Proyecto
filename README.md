@@ -24,6 +24,12 @@
 6️⃣ Aplicación del modelo a test para la obtención del precio de los diamantes de este csv.
 
 
+# Estructura del proyecto.
+
+1️⃣ **notebook:** contiene los jupyter del trabajo.
+
+2️⃣ **data:** distintos csv de los train y test iniciales, aplicándoles cada uno de los cambios descritos en la obtención de resultados.
+
 # Librerías.
 
 [pandas] (https://pandas.pydata.org/)
